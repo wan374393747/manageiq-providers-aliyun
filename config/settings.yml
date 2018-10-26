@@ -1,0 +1,12 @@
+---
+:ems:
+  :ems_aliyun:
+    :blacklisted_event_names: []
+    :event_handling:
+      :event_groups:
+:http_proxy:
+  :aliyun:
+    :host:
+    :password:
+    :port:
+    :user:
